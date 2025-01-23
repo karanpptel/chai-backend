@@ -1,7 +1,7 @@
 {
   "name": "chai-backend",
   "version": "1.0.0",
-  "description": "a backend at karan github repo",
+  "description": "a backend at chai aur code with karan",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

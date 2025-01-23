@@ -1,4 +1,5 @@
-#chai or backend series
+#chai aur backend series
 
-This is the complete backend mega project with javascript
-- [Model Link](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj)
+This is a complete backend mega project.
+
+-[Model Link](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj)
